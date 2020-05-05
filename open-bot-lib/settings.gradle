@@ -1,0 +1,3 @@
+rootProject.name = 'open-bot-lib'
+include 'open-keystroke'
+
